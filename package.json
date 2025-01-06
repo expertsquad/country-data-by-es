@@ -1,0 +1,55 @@
+{
+  "name": "country-data-by-es",
+  "version": "1.0.0",
+  "description": "Get all country, state, and city data",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Expert Squad",
+  "license": "ISC",
+  "keywords": [
+    "country data",
+    "country API",
+    "country information",
+    "state data",
+    "city data",
+    "city information",
+    "state API",
+    "city API",
+    "geographical data",
+    "world countries data",
+    "country database",
+    "location data",
+    "country details",
+    "states and cities data",
+    "geography API",
+    "world data API",
+    "location information API",
+    "country state city API",
+    "global country data",
+    "country lookup API",
+    "state and city lookup",
+    "geography database",
+    "international data API",
+    "world geography data",
+    "region and city data",
+    "country state city data API",
+    "global location data",
+    "location services API",
+    "countries and regions API",
+    "country and region database",
+    "global cities data"
+  ],
+  "files": [
+    "dist/**/*"
+  ],
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
